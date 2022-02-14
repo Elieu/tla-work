@@ -2,11 +2,11 @@
 
 ## Prerequisites
 
-- If you never heard of the first-order predicate logic or set theory, you should probably go to the reading list at the end of this document first.
+- If you had never heard of the first-order predicate logic or set theory, you should probably go to the reading list at the end of this document first.
 
 - If you felt confused about any terminology in either this document or the source code, you should probably refer to the reading list at the end of this document first.
 
-- If you never read Leslie Lamport's foundational paper: _Time, Clocks and the Ordering of Events in a Distributed System. Leslie Lamport. Communications of the ACM 21, 7 (July 1978), 558-565._, you should probably read it carefully first, and make sure that you truly understand the representation of distributed computation model.
+- If you had never read Leslie Lamport's foundational paper: _Time, Clocks and the Ordering of Events in a Distributed System. Leslie Lamport. Communications of the ACM 21, 7 (July 1978), 558-565._, you should probably read it carefully first, and make sure that you truly understand the representation of distributed computation model.
 
 ## Introductions
 
